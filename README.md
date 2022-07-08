@@ -18,6 +18,11 @@
 
 <h3>Apaixonado por tecnologia e programação.</h3>
 
+### Atividade no momento
+- [x] Estudando logica de programação. [curso cod3r](https://www.udemy.com/share/103GrF/)
+  - [x] Algoritmo e estrutura de dados`(conceito)`
+  - [ ] Fundamentos da programação
+
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
 - [ ] Gerador de numero aleatório [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md)
