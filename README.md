@@ -16,7 +16,7 @@
 
 <hr/>
 
-<h3>Apaixonado do tecnologia e programação.</h3>
+<h3>Apaixonado por tecnologia e programação.</h3>
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
