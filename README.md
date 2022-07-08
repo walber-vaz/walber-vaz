@@ -19,7 +19,7 @@
 <h3>Apaixonado por tecnologia e programação.</h3>
 
 ### Atividade no momento
-- [x] Estudando logica de programação. [curso cod3r](https://www.udemy.com/share/103GrF/)
+- [x] Estudando logica de programação. [repositório](https://github.com/walber-vaz/logica-de-programacao-js)
   - [x] Algoritmo e estrutura de dados`(conceito)`
   - [ ] Fundamentos da programação
 
