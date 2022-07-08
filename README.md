@@ -19,5 +19,5 @@
 <h3>Apaixonado do tecnologia e programação.</h3>
 
 ### Ideias de projetos para estudo 🤔
-- [ ] Calculadora <a target="_blank" rel="noreferrer noopener" href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">Ideia do projeto</a>
-- [ ] Gerador de numero aleatório [inspiração](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md)
+- [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
+- [ ] Gerador de numero aleatório [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md)
