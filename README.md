@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 </div>
 
-<div>
-  <img width="350" height="180" src="https://media4.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif?cid=ecf05e47tnl4v7nwxo76atgpsb20wswv0d8n6gvu6bgh75ja&rid=giphy.gif&ct=g" />
-</div>
+<hr/>
+
+<h3>Apaixonado do tecnologia e programação.</h3>
+
+### Ideias de projetos para estudo 🤔
+- [ ] Calculadora <a target="_blank" rel="noreferrer noopener" href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">Ideia do projeto</a>
+- [ ] Gerador de numero aleatório [inspiração](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md)
