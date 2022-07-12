@@ -32,6 +32,7 @@
   - [x] O que e sentenças de código? [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/SENTENÇA_DE_CODIGO.md)
   - [x] Comentarios. [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/COMENTARIOS.md)
   - [x] Bloco de código [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/BLOCO_DE_CODIGO.md)
+  - [ ] Dados
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
