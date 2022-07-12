@@ -36,6 +36,8 @@
   - [x] Tipo Básicos (number, boolean, string).
   - [x] Variáveis let e const diferença entre elas.
   - [x] Operadores aritméticos.
+  - [x] Operadores relacionais.
+  - [x] Operadores atribuição.
   - [ ] Operadores relacionais.
 
 ### Ideias de projetos para estudo 🤔
