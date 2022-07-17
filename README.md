@@ -38,7 +38,11 @@
   - [x] Operadores aritméticos.
   - [x] Operadores relacionais.
   - [x] Operadores atribuição.
-  - [ ] Operadores relacionais.
+  - [x] Operadores unários.
+  - [x] Operadores ternário.
+  - [x] Estruturas de controle.
+    - [x] Estruturas de controle if.
+    - [x] Estruturas de controle if/else/else if.
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
