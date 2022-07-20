@@ -45,7 +45,9 @@
     - [x] Estruturas de controle if/else/else if.
     - [x] Estruturas de repetição.
       - [x] while.
-      - [ ] for.
+      - [x] for.
+      - [x] switch.
+  - [ ] Funções.
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
