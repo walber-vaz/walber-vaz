@@ -47,7 +47,8 @@
       - [x] while.
       - [x] for.
       - [x] switch.
-  - [ ] Funções.
+  - [x] Funções.
+  - [ ] Array.
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
