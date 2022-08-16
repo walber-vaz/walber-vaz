@@ -22,35 +22,10 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=logica-de-programacao-js&show_owner=true&theme=dracula&locale=pt-br" />
-<div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=dracula&locale=pt-br" />
-</div><br/>
-
-> Estudando logica de programação. [repositório](https://github.com/walber-vaz/logica-de-programacao-js)
-- [x] Conceito de estrutura de dados e algoritmo.
-  - [x] Algoritmo [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/ALGORITMO.md)
-  - [x] Estrutura de dados [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/ESTRUTURAS_DE_DADOS.md)
-- [x] Fundamentos da programação.
-  - [x] O que e sentenças de código? [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/SENTENÇA_DE_CODIGO.md)
-  - [x] Comentários. [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/COMENTARIOS.md)
-  - [x] Bloco de código [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/BLOCO_DE_CODIGO.md)
-  - [x] Dados
-  - [x] Tipo Básicos (number, boolean, string).
-  - [x] Variáveis let e const diferença entre elas.
-  - [x] Operadores aritméticos.
-  - [x] Operadores relacionais.
-  - [x] Operadores atribuição.
-  - [x] Operadores unários.
-  - [x] Operadores ternário.
-  - [x] Estruturas de controle.
-    - [x] Estruturas de controle if.
-    - [x] Estruturas de controle if/else/else if.
-    - [x] Estruturas de repetição.
-      - [x] while.
-      - [x] for.
-      - [x] switch.
-  - [x] Funções.
-  - [ ] Array.
+</div>
+  
+<br/>
 
 ### Ideias de projetos para estudo 🤔
 - [ ] Calculadora [Ideia do projeto](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
