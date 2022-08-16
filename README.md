@@ -22,6 +22,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=logica-de-programacao-js&show_owner=true&theme=dracula&locale=pt-br" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=dracula&locale=pt-br" />
 </div><br/>
 
 > Estudando logica de programação. [repositório](https://github.com/walber-vaz/logica-de-programacao-js)
