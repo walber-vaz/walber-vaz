@@ -2,11 +2,8 @@
 <h3>Apaixonado por tecnologia e programação.</h3>
 
 <div>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=dracula&locale=pt-br" alt="walber-vaz" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=dracula&locale=pt-br" alt="walber-vaz" />
 </div>
-
-
 
 #### Tecnologia que eu uso e estou estudando no meu dia a dia!
 <div style="display: inline_block;">
@@ -27,4 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" />
 </div>
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
