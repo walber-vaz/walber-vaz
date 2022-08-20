@@ -3,7 +3,7 @@
 
 <div>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=dracula&locale=pt-br" alt="walber-vaz" />
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
+  
 </div>
 
 
@@ -24,4 +24,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=logica-de-programacao-js&show_owner=true&theme=dracula&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=dracula&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" />
 </div>
+
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
