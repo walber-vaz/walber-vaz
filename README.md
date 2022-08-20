@@ -23,4 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=logica-de-programacao-js&show_owner=true&theme=dracula&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=dracula&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=ToDoList&show_owner=true&theme=dracula&locale=pt-br" />
 </div>
