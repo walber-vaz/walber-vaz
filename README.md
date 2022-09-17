@@ -21,5 +21,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=trybe-exercise&show_owner=true&theme=dracula&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=logica-de-programacao-js&show_owner=true&theme=dracula&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=walber-vaz.github.io&show_owner=true&theme=dracula&locale=pt-br" />
 </div>
