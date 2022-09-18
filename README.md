@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
 </div>
 
-#### Tecnologia que eu uso e estou estudando no meu dia a dia!
+<p align="center">Tecnologia que eu uso e estou estudando no meu dia a dia!</p>
 <div align="center" style="display: inline_block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
