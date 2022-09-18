@@ -20,6 +20,6 @@
 ### Atividade no momento
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=trybe-exercise&show_owner=true&theme=dracula&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=walber-vaz.github.io&show_owner=true&theme=dracula&locale=pt-br" />
+  <a href="https://github.com/walber-vaz/trybe-exercise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=trybe-exercise&show_owner=true&theme=dracula&locale=pt-br" /></a>
+  <a href="https://github.com/walber-vaz/walber-vaz.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=walber-vaz.github.io&show_owner=true&theme=dracula&locale=pt-br" /></a>
 </div>
