@@ -20,6 +20,6 @@
 <h3 align="center">Atividade no momento</h3>
 
 <div align="center">
-  <a href="https://github.com/walber-vaz/trybe-exercise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=trybe-exercise&show_owner=true&theme=dracula&locale=pt-br" /></a>
   <a href="https://github.com/walber-vaz/Estudo-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=Estudo-Java&show_owner=true&theme=dracula&locale=pt-br" /></a>
+  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" /></a>
 </div>
