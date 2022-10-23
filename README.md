@@ -2,8 +2,8 @@
 <h3 align="center">Apaixonado por tecnologia e programação.</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=dracula&locale=pt-br" alt="walber-vaz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=dracula&locale=pt-br" alt="walber-vaz" height=200/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=dracula" alt="walber-vaz" height=200/>
 </div>
 
 <h3 align="center">Tecnologia que eu uso e estou estudando no meu dia a dia!</h3>
@@ -20,6 +20,6 @@
 <h3 align="center">Atividade no momento</h3>
 
 <div align="center">
-  <a href="https://github.com/walber-vaz/Estudo-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=Estudo-Java&show_owner=true&theme=dracula&locale=pt-br" /></a>
-  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" /></a>
+  <a href="https://github.com/walber-vaz/Estudo-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=Estudo-Java&show_owner=true&theme=dracula&locale=pt-br" height=150/></a>
+  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=dracula&locale=pt-br" height=150 /></a>
 </div>
