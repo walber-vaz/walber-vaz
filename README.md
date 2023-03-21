@@ -2,8 +2,8 @@
 <h3 align="center">Apaixonado por tecnologia e programação. https://walber-vaz.github.io/</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=500/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=500 height="210" >
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=350 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=350 height="146" >
 </div>
 
 <h3 align="center">Tecnologia que eu uso e estou estudando no meu dia a dia!</h3>
@@ -22,6 +22,6 @@
 <h3 align="center">Atividade no momento</h3>
 
 <div align="center">
-  <a href="https://github.com/walber-vaz/walber-vaz.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=walber-vaz.github.io&show_owner=true&theme=tokyonight&locale=pt-br"/></a>
-  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-js-funcional-e-reativo&show_owner=true&theme=tokyonight&locale=pt-br"/></a>
+  <a href="https://github.com/walber-vaz/walber-vaz.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=walber-vaz.github.io&show_owner=true&theme=tokyonight&locale=pt-br" /></a>
+  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=CursoJava&show_owner=true&theme=tokyonight&locale=pt-br" /></a>
 </div>
