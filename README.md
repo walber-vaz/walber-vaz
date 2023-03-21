@@ -2,8 +2,8 @@
 <h3 align="center">Apaixonado por tecnologia e programação. https://walber-vaz.github.io/</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=400/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=400 height=167/>
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=500/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=500 height="210" >
 </div>
 
 <h3 align="center">Tecnologia que eu uso e estou estudando no meu dia a dia!</h3>
