@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=400 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=310 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=305 />
 </div>
 
 <h3 align="center">Tecnologia que eu uso e estou estudando no meu dia a dia!</h3>
