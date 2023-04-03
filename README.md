@@ -22,6 +22,6 @@
 <h3 align="center">Atividade no momento</h3>
 
 <div align="center">
-  <a href="https://github.com/walber-vaz/curso-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=tokyonight&locale=pt-br" /></a>
-  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=CursoJava&show_owner=true&theme=tokyonight&locale=pt-br" /></a>
+  <a href="https://github.com/walber-vaz/curso-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-go&show_owner=true&theme=tokyonight&locale=pt-br" width="350" /></a>
+  <a href="https://github.com/walber-vaz/curso-js-funcional-e-reativo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=CursoJava&show_owner=true&theme=tokyonight&locale=pt-br" width="405" /></a>
 </div>
