@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+<div align="center">
+  <h3>Entre em contato</h3>
+  <a href="mailto:wvs.walber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://www.linkedin.com/in/walber-vaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</div>
+
 <hr/>
 
 <h3 align="center">Atividade no momento</h3>
