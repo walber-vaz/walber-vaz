@@ -1,9 +1,10 @@
-<h3 align="center"> Olá 👋, meu nome e Walber Vaz </h3>
+<h3 align="center"> Olá 👋, meu nome e Walber Vaz desenvolvendor backend </h3>
 <h3 align="center">Apaixonado por tecnologia e programação. https://walber-vaz.github.io/</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&show_icons=true&theme=tokyonight&locale=pt-br" alt="walber-vaz" width=400 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="walber-vaz" width=305 />
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github&locale=pt-br" alt="walber-vaz" width=400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&theme=react&bg_color=00000000&hide_border=true&layout=donut" alt="walber-vaz" width=305 />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=walber-vaz&layout=compact&theme=react&bg_color=00000000&hide_border=true" />
 </div>
 
 <h3 align="center">Tecnologia que eu uso no meu dia a dia!</h3>
