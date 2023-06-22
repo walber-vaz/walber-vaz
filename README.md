@@ -38,6 +38,6 @@
 <h3 align="center">Atividade no momento</h3>
 
 <div align="center">
-   <a href="https://github.com/walber-vaz/api-ts-jobs" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=api-ts-jobs&show_owner=true&theme=tokyonight&locale=pt-br" height="130" /></a>
+   <a href="https://github.com/walber-vaz/curso-php" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-php&show_owner=true&theme=tokyonight&locale=pt-br" height="130" /></a>
   <!-- <a href="https://github.com/walber-vaz/clean-arch-typescript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=clean-arch-typescript&show_owner=true&theme=tokyonight&locale=pt-br" height="120" /></a> -->
 </div>
