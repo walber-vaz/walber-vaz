@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=walber-vaz)
+
 <h3 align="center"> Olá 👋, meu nome e Walber Vaz desenvolvendor backend </h3>
 <h3 align="center">Apaixonado por tecnologia e programação. https://walber-vaz.github.io/</h3>
 
