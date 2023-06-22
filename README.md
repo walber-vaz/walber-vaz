@@ -33,12 +33,3 @@
   <a href="mailto:wvs.walber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
   <a href="https://www.linkedin.com/in/walber-vaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </div>
-
-<hr/>
-
-<h3 align="center">Atividade no momento</h3>
-
-<div align="center">
-   <a href="https://github.com/walber-vaz/curso-php" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=curso-php&show_owner=true&theme=tokyonight&locale=pt-br" height="130" /></a>
-  <!-- <a href="https://github.com/walber-vaz/clean-arch-typescript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walber-vaz&repo=clean-arch-typescript&show_owner=true&theme=tokyonight&locale=pt-br" height="120" /></a> -->
-</div>
