@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=walber-vaz)
 
-<h3 align="center"> Olá 👋, meu nome e Walber Vaz desenvolvendor backend </h3>
+<h3 align="center"> Olá 👋, meu nome e Walber Vaz desenvolvendor FullStack com foco no backend </h3>
 <h3 align="center">Apaixonado por tecnologia e programação. https://walbervazdev.com.br</h3>
 
 <div align="center">
