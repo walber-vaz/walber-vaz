@@ -4,9 +4,9 @@
 <h3 align="center">Apaixonado por tecnologia e programação. https://walbervazdev.com.br</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&count_private=true&show_icons=true&theme=react&bg_color=222222&hide_border=true&rank_icon=github&locale=pt-br" alt="walber-vaz" width=400 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&theme=react&bg_color=00000000&hide_border=true&layout=donut" alt="walber-vaz" width=305 />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=walbervaz&layout=compact&theme=react&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&count_private=true&show_icons=true&theme=react&bg_color=10B981&hide_border=true&rank_icon=github&locale=pt-br" alt="walber-vaz" width=400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walber-vaz&theme=react&bg_color=10B981&hide_border=true&layout=donut" alt="walber-vaz" width=305 />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=walbervaz&layout=compact&theme=react&bg_color=10B981&hide_border=true" />
 </div>
 
 <h3 align="center">Tecnologia que eu uso no meu dia a dia!</h3>
