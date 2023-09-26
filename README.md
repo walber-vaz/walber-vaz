@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=walber-vaz)
 
 <h3 align="center"> Olá 👋, meu nome e Walber Vaz desenvolvendor FullStack com foco no backend </h3>
-<h3 align="center">Apaixonado por tecnologia e programação. https://walbervazdev.com.br</h3>
+<h3 align="center">Apaixonado por tecnologia e programação. <a href="https://walber-vaz.github.io/">https://walber-vaz.github.io</a></h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walber-vaz&count_private=true&show_icons=true&theme=react&bg_color=222222&hide_border=true&rank_icon=github&locale=pt-br" alt="walber-vaz" width=400 />
